@@ -2,7 +2,11 @@
 
 ## Hack
 
-- Christopher Simpkins
+### Core Development Team
+
+- Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - project lead
+- David van Gemeren ([@burodepeper](https://github.com/burodepeper)) - typeface usability
+- JM ([@jublo](https://github.com/jublo)) - typeface design, web development
 
 ### Hinting / Instruction Sets
 - Werner Lemberg
